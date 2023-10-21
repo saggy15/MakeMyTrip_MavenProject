@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[lauching chromeBrowser]]>
+    </line>
+    <line>
+      <![CDATA[Lauching website]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 3000 milisec]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 2000 milisec]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on roundTrip]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 2000 milisec]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 1000 milisec]]>
+    </line>
+    <line>
+      <![CDATA[Entering from city name]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 500 milisec]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 500 milisec]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 1000 milisec]]>
+    </line>
+    <line>
+      <![CDATA[Entering toCityname]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 1000 milisec]]>
+    </line>
+    <line>
+      <![CDATA[Entering Dep date]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 500 milisec]]>
+    </line>
+    <line>
+      <![CDATA[Entering return Date]]>
+    </line>
+    <line>
+      <![CDATA[Getting Actual Message like You are booking for more than 30 days]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 500 milisec]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 800 milisec]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 1000 milisec]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 500 milisec]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 500 milisec]]>
+    </line>
+    <line>
+      <![CDATA[Save on bookings with more than 9 travellers]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 800 milisec]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 1000 milisec]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 500 milisec]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 500 milisec]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 500 milisec]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 2000 milisec]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 2000 milisec]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 1500 milisec]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 1000 milisec]]>
+    </line>
+    <line>
+      <![CDATA[The date Display on Review page is Wed, 25 Oct]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 4000 milisec]]>
+    </line>
+    <line>
+      <![CDATA[Closing Browser]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 5000 milisec]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-10-21T16:35:49 IST" name="Suite" finished-at="2023-10-21T16:36:55 IST" duration-ms="66285">
+    <groups>
+    </groups>
+    <test started-at="2023-10-21T16:35:49 IST" name="Test" finished-at="2023-10-21T16:36:55 IST" duration-ms="66285">
+      <class name="test.TC01_verifyMessageOf30Days">
+        <test-method is-config="true" signature="OpenBrowser()[pri:0, instance:test.TC01_verifyMessageOf30Days@4d9e68d0]" started-at="2023-10-21T16:35:49 IST" name="OpenBrowser" finished-at="2023-10-21T16:35:56 IST" duration-ms="7133" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[lauching chromeBrowser]]>
+            </line>
+            <line>
+              <![CDATA[Lauching website]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method is-config="true" signature="journeyInfo()[pri:0, instance:test.TC01_verifyMessageOf30Days@4d9e68d0]" started-at="2023-10-21T16:35:56 IST" name="journeyInfo" finished-at="2023-10-21T16:36:10 IST" duration-ms="13809" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Waiting for 3000 milisec]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 2000 milisec]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on roundTrip]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 2000 milisec]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 1000 milisec]]>
+            </line>
+            <line>
+              <![CDATA[Entering from city name]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 500 milisec]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 500 milisec]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 1000 milisec]]>
+            </line>
+            <line>
+              <![CDATA[Entering toCityname]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 1000 milisec]]>
+            </line>
+            <line>
+              <![CDATA[Entering Dep date]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 500 milisec]]>
+            </line>
+            <line>
+              <![CDATA[Entering return Date]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- journeyInfo -->
+        <test-method signature="VerifyMessageOF30Days()[pri:0, instance:test.TC01_verifyMessageOf30Days@4d9e68d0]" started-at="2023-10-21T16:36:10 IST" name="VerifyMessageOF30Days" finished-at="2023-10-21T16:36:55 IST" duration-ms="45281" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Getting Actual Message like You are booking for more than 30 days]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 500 milisec]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 800 milisec]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 1000 milisec]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 500 milisec]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 500 milisec]]>
+            </line>
+            <line>
+              <![CDATA[Save on bookings with more than 9 travellers]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 800 milisec]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 1000 milisec]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 500 milisec]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 500 milisec]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 500 milisec]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 2000 milisec]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 2000 milisec]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 1500 milisec]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 1000 milisec]]>
+            </line>
+            <line>
+              <![CDATA[The date Display on Review page is Wed, 25 Oct]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 4000 milisec]]>
+            </line>
+            <line>
+              <![CDATA[Closing Browser]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 5000 milisec]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VerifyMessageOF30Days -->
+      </class> <!-- test.TC01_verifyMessageOf30Days -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
